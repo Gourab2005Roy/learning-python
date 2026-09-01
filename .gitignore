@@ -1,0 +1,21 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# IDE / editor junk
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# If you ever use PyInstaller to build .exe files
+*.exe
+*.spec
